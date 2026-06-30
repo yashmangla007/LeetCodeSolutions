@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
