@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
