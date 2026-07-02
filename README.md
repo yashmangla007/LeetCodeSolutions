@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
@@ -64,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -78,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
