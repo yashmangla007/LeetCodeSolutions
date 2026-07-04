@@ -51,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
