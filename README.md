@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
