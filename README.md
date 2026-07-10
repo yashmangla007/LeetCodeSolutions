@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0136-single-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0461-hamming-distance) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
