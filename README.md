@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
