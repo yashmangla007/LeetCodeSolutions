@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
