@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -210,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
