@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,12 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Quicksort
 |  |
 | ------- |
