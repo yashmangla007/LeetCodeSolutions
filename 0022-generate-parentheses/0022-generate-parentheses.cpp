@@ -1,7 +1,7 @@
 class Solution {
 public:
     void findCombo(string s, int open, int close, int n, vector<string>& ans){
-        if(s.length() == 2*n) {
+        if(open==n && close==n) {
             ans.push_back(s);
         }
 
