@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
+| [1922-count-good-numbers](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
