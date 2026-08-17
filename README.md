@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0078-subsets) |
 ## Matrix
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
