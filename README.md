@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0143-reorder-list) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
