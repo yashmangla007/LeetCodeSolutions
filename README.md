@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0875-koko-eating-bananas) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
