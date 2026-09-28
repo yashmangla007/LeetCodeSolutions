@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
