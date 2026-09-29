@@ -12,7 +12,7 @@ class Solution {
 public:
 ListNode* removeElements(ListNode* head, int val) {
     
-    while(head!=nullptr && head->val==val){
+    while(head!=NULL && head->val==val){
         ListNode* temp = head;
         head= head->next;
         delete(temp);
