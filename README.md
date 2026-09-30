@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0860-lemonade-change) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
