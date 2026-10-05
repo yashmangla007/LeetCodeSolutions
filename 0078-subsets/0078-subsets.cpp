@@ -1,19 +1,23 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> powerset;
-        
-        for(int mask = 0; mask < (1<<n); mask++){
-            vector<int> subset;
-            int temp = mask, i=0;
-            while(temp>0){
-                if(temp&1) subset.push_back(nums[i]);
-                i++;
-                temp= temp>>1;
-            }
-            powerset.push_back(subset);
+
+    void getPowerSet(int ind, vector<int> &curset, vector<vector<int>> &powerset, vector<int> &nums){
+        if(ind>= nums.size()){
+            powerset.push_back(curset);
+            return;
         }
+
+        curset.push_back(nums[ind]);
+        getPowerSet(ind+1, curset, powerset, nums);
+        curset.pop_back();
+        getPowerSet(ind+1, curset, powerset, nums);
+    }
+
+    vector<vector<int>> subsets(vector<int>& nums) {
+        
+        vector<vector<int>> powerset;
+        vector<int> curset;
+        getPowerSet(0, curset, powerset, nums);
 
         return powerset;
     }
