@@ -25,7 +25,7 @@ public:
             vector<int> level;
             for(int i=0; i<size; i++){
                 TreeNode* node = q.front();
-                // root = q.front();
+                // root = q.front(); //incase No need for extra Node
                 q.pop();
                 if(node->left!=nullptr) q.push(node->left);
                 if(node->right!=nullptr) q.push(node->right);
