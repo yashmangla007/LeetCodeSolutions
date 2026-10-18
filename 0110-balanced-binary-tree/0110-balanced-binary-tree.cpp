@@ -12,15 +12,32 @@
 class Solution {
 public:
 
-    int height(TreeNode* root){
+
+    //Non-Optimal Solution:
+    // int height(TreeNode* root){
+    //     if(root==nullptr) return 0;
+    //     return 1 + max(height(root->left), height(root->right));
+    // }
+    // bool isBalanced(TreeNode* root) {
+    //     if(root==nullptr) return true;
+
+    //     int dif = height(root->left) - height(root->right);
+    //     return ( isBalanced(root->left) && isBalanced(root->right) && (dif>=-1 && dif<=1) );
+    // }
+
+    //Optimal Solution:
+    int check(TreeNode* root){
         if(root==nullptr) return 0;
-        return 1 + max(height(root->left), height(root->right));
+        int lh = check(root->left);
+        int rh = check(root->right);
+        if(lh==-1 || rh==-1) return -1;
+        if(lh-rh<-1 || lh-rh>1) return -1;
+        return max(lh,rh) +1;
     }
 
     bool isBalanced(TreeNode* root) {
-        if(root==nullptr) return true;
-
-        int dif = height(root->left) - height(root->right);
-        return ( isBalanced(root->left) && isBalanced(root->right) && (dif>=-1 && dif<=1) );
+        if(check(root)>-1) return true;
+        else return false;
     }
+
 };
