@@ -14,7 +14,9 @@ public:
 
     bool checkBST(TreeNode* root, long long lowLim, long long upLim){
         if(root == nullptr) return true;
+
         if(root->val<=lowLim || root->val>=upLim) return false;
+        
         return checkBST(root->left, lowLim, root->val)
             && checkBST(root->right, root->val, upLim);
     }
