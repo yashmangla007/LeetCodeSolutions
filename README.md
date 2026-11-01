@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0169-majority-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0503-next-greater-element-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0231-power-of-two) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0877-stone-game](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
