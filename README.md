@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 ## DP on Trees
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/yashmangla007/LeetCodeSolutions/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
